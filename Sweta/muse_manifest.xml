@@ -1,0 +1,30 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="SwetaPage.com" resolutions="1x" timestamp="1504976236822">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3936640830" ref="index"/>
+    <file name="iefonts_index.css" crc="310852561" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="erza wallpaper-u362-fr.png" crc="3760833062" ref="index"/>
+    <file name="u405-4.png" crc="4182671048" ref="index"/>
+    <file name="erza pic1-ieu326-fr.png" crc="3764591236" ref="index"/>
+    <file name="erza pic1.jpg" crc="4265269008" ref="index"/>
+    <file name="writing girl-ieu332-fr.png" crc="4261541495" ref="index"/>
+    <file name="writing girl.jpg" crc="15036265" ref="index"/>
+    <file name="teacher-ieu322-fr.png" crc="503660268" ref="index"/>
+    <file name="teacher.jpg" crc="402591797" ref="index"/>
+    <file name="raizo-u305-fr.png" crc="3918237868" ref="index"/>
+    <file name="erza eye-u174-fr.png" crc="519264684" ref="index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="461570846" seo="true" mt="1504976054991" redirect="true"/>
+</manifest>
